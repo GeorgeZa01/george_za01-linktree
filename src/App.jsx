@@ -7,7 +7,7 @@ function App() {
   const profileName = "George_za01";
   const profileBio = "Digital Creator | Software Developer";
   // The path starts at the public/ folder for Vite static assets
-  const profilePicPath = "../public/My_Logo.jpg"; 
+  const profilePicPath = "/My_Logo.jpg"; 
 
   return (
     <div className="linktree-container">
