@@ -1,0 +1,26 @@
+.link-card {
+  display: block;
+  padding: 18px 20px;
+  background-color: #000; 
+  color: white;
+  text-decoration: none; 
+  border-radius: 12px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  transition: background-color 0.2s, transform 0.1s, box-shadow 0.2s;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  border: none;
+}
+
+.link-card:hover {
+  background-color: #1a1a1a; 
+  transform: translateY(-2px); 
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.link-card:active {
+  background-color: #333;
+  transform: translateY(0);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
