@@ -2,7 +2,7 @@ const socialLinks = [
   {
     id: 1,
     name: "Portfolio Website 🌐",
-    url: "https://your-portfolio.com",
+    url: "https://dev-jemailemohamed.pantheonsite.io/",
   },
   {
     id: 2,
