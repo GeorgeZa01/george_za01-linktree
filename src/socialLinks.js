@@ -1,8 +1,8 @@
 const socialLinks = [
   {
     id: 1,
-    name: "Portfolio Website 🌐",
-    url: "https://jemaile-portfolio.netlify.app/",
+    name: "Work with me 🌐",
+    url: "https://jmdev.co.za",
   },
   {
     id: 2,
@@ -22,7 +22,7 @@ const socialLinks = [
   {
     id: 5,
     name: "Resume/CV 📄",
-    url: "https://docs.google.com/document/d/15XK3oRK8nP2ncNg22rEdWn5Eb1q-aZsg/export?format=pdf",
+    url: "https://docs.google.com/document/d/15XK3oRK8nP2ncNg22rEdWn5Eb1q-aZsg/edit?usp=drive_link&ouid=117231534740098780356&rtpof=true&sd=true",
   },
   
 ];
