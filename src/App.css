@@ -54,3 +54,9 @@ body {
   font-size: 0.9rem;
   color: #1b1b1b;
 }
+
+.footer-link {
+  color: #04147e;
+  text-decoration: none;
+  font-weight: bold;
+}

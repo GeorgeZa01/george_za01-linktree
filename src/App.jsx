@@ -35,6 +35,8 @@ function App() {
 
       <footer className="footer">
         Built with 🚀 React & Vite
+        <br/>
+        by <a href="https://jmdev.co.za" target='_blank' rel="noopener noreferrer" className="footer-link">JMDev</a>
       </footer>
     </div>
   );
